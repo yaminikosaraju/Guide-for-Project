@@ -5,13 +5,13 @@ If you are running project for the first time, setting up environment involves s
 If you have already set up the environment, just implement step 7
 
 Step1 : First Create the schema
--Install MySQL server is installed
--Download the dump.sql from database dump from https://github.com/yaminikosaraju/Guide-for-Project
--Open your desired host and import schema from the dump file
+- Install MySQL server is installed
+- Download the dump.sql from database dump from https://github.com/yaminikosaraju/Guide-for-Project
+- Open your desired host and import schema from the dump file
 
 Step 2 : Install node in local computer
--Download the .msi or .pkg file from https://nodejs.org/en/download/
--Install the file
+- Download the .msi or .pkg file from https://nodejs.org/en/download/
+- Install the file
 
 Step 3 : Check if the node.js and npm are installed
 In command prompt check 'node -v' to check node version
